@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "0856929683f9c6777f5eea18",
+  "owner": "x7wmu5dqa",
+  "repo": "page-23fdc303be1af20738d32c14",
+  "title": "Vowa",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "23fdc303be1af20738d32c14",
+      "a": "Vowa",
+      "b": "机场官网线路发布页",
+      "entity": "Vowa",
+      "brand": "Vowa",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "e9240ff52fc1c777e3e16adcb2bf3098bf88b044c47cca28b49a4e26c52b3a89",
+      "content": {
+        "primary_entity": "Vowa",
+        "keyword1": "Vowa",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，围绕套餐选择、设备连接和订阅配置提供清晰指引。基础版每月 100GB 流量、支持 3 台设备；旗舰版每月 300GB、5 台设备并含 IPLC 专线；团队版每月 1000GB、20 台设备，可定制路由。按年付更划算，适合长期稳定使用。",
+          "AI_HERO_SUBTITLE": "Vowa 加速器套餐与设备配置指南",
+          "AI_HERO_INTRO": "Vowa 为个人与团队提供多种海外加速套餐，覆盖基础浏览、流媒体解锁与游戏专线优化。按设备数量、月流量需求和订阅周期挑选合适版本，再配合客户端导入订阅即可使用。",
+          "AI_VISUAL_TITLE": "Vowa 套餐与设备适配",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线游戏优化",
+          "AI_HIGHLIGHT_3": "按年付节省约两个月费用",
+          "AI_FEATURES_TITLE": "选择与配置要点",
+          "AI_FEATURES_INTRO": "从流量、设备数和线路类型三个角度匹配日常使用场景。",
+          "AI_FEATURE_TITLE_1": "按流量选版本",
+          "AI_FEATURE_TEXT_1": "基础版 100GB 适合单人轻量浏览，300GB 旗舰版满足多设备流媒体。",
+          "AI_FEATURE_TITLE_2": "按设备定容量",
+          "AI_FEATURE_TEXT_2": "3 台设备选基础版，5 台选旗舰版，20 台设备或企业环境选团队版。",
+          "AI_FEATURE_TITLE_3": "按周期算成本",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付基础版 ¥150、旗舰版 ¥350、团队版 ¥850，长期更省。",
+          "AI_CLIENTS_TITLE": "设备客户端选择",
+          "AI_CLIENTS_INTRO": "在 Windows、macOS、iOS 与 Android 上依客户端文档导入 Vowa 订阅；路由器或 Linux 环境请参考对应教程手动配置。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月；年付依次为 ¥150、¥350、¥850，按设备数与流量需求匹配。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "按流程完成服务选择、适配确认与订阅导入。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据设备数量与流量需求，在基础版、旗舰版或团队版中做选择。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认当前设备系统与客户端版本满足所选套餐的配置要求。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "依照对应客户端文档导入订阅，完成节点连接与规则设置。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "Vowa 支持哪些设备客户端？",
+          "AI_FAQ_ANSWER_1": "Windows、macOS、iOS、Android 等平台可参照客户端文档导入订阅，路由器与 Linux 环境建议手动配置，具体可用性以对应客户端说明为准。",
+          "AI_FAQ_QUESTION_2": "基础版和旗舰版有什么区别？",
+          "AI_FAQ_ANSWER_2": "基础版每月 100GB 流量、3 台设备；旗舰版每月 300GB、5 台设备，并提供 IPLC 专线与流媒体解锁。设备多、用量大或需要游戏优化时选旗舰版。",
+          "AI_FAQ_QUESTION_3": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_3": "团队版每月 1000GB 流量、支持 20 台设备，提供 VIP 高带宽节点与企业定制路由，适合小型团队或需要固定出口配置的场景。",
+          "AI_FAQ_QUESTION_4": "按年付比月付便宜多少？",
+          "AI_FAQ_ANSWER_4": "基础版月付 ¥15、年付 ¥150；旗舰版月付 ¥35、年付 ¥350；团队版月付 ¥85、年付 ¥850，按年付约为十个月费用，长期使用更划算。",
+          "AI_FAQ_QUESTION_5": "订阅配置遇到问题怎么办？",
+          "AI_FAQ_ANSWER_5": "先对照客户端文档检查订阅链接、节点与规则设置；旗舰版与团队版提供优先工单支持，可提交具体报错信息获取帮助。",
+          "AI_CLOSING_TITLE": "选择适合的 Vowa 套餐",
+          "AI_CLOSING_TEXT": "根据设备与流量需求选好版本，再按客户端文档完成订阅导入。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "rxnjzo.cn",
+    "host": "rxnjzo.cn"
+  },
+  "file_hashes": {
+    "index.html": "35dba8931ed78a4466ad3a232cd7482d101bff768db2107f05bd23fa32c76aa6",
+    "sitemap.xml": "a5ce258025a8ad72e07530bd51a03cb94cff086fc3413322e2244a4cb955c559",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "d0a103fced327a2e45bc947f79fb848554ff3fdc3784e7639cf0382033561359",
+    "robots.txt": "413392eeeab3ce8b489bff87962a924c1aeca89b147c17a59065aac8316cbd08",
+    "2b7d21c5c9ca957c403d38bbb8fb8a67.txt": "256a066576812bf233a6a048ad8fa81582dd21b71dc32602c3c9c6fd37eee0e6"
+  },
+  "revision": "b70ef01e82c75b7102ce7b2e5a69831c516c48f2d7c6e925a8505838d424941a"
+}
